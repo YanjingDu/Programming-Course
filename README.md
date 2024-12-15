@@ -15,7 +15,7 @@
 
 ### 使用包的版本
 
-在运行代码之前，请确保安装了以下Python包及其版本：
+在运行代码之前，请确保安装了以下Python包：
 
 - `numpy`: 用于数值计算。
 - `pandas`: 用于数据处理和分析。
@@ -47,7 +47,7 @@ pip install numpy pandas seaborn matplotlib plotnine xgboost scikit-learn imbala
    - 代码中包含数据预处理步骤，如数据清洗、类型转换和特征工程。
 
 4. **探索性数据分析**:
-   - 代码中使用`plotnine`库进行数据可视化，生成散点图等。
+   - 代码中使用`plotnine`库等进行数据可视化，生成散点图等各种可视化图表。
 
 5. **模型训练和评估**:
    - 代码中包含使用`xgboost`和`sklearn`库进行模型训练和评估的步骤。
